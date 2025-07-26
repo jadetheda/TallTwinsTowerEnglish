@@ -1,16 +1,16 @@
-NOTE:
-If anybody has a better icon for hurricane class than a cloud with a lightning bolt, which can fit in 18 pixels of vertical space, please let me know in Issues!
+*NOTE:
+If anybody has a better icon for hurricane class than a cloud with a lightning bolt, which can fit in 18 pixels of vertical space, please let me know in Issues!*
 
-As far as I can tell, I've translated everything except the plain text and the credits.
+**As far as I can tell, I've translated everything except the plain text and the credits.**
 
 Translating the plain text is far beyond my capabilities, unfortunately.* This means that the text of the tutorials, along with the description of the difference between Crane and Slide remain in Japanese.
 
 *(Part of my issue is that AFAIK these use a BIOS font, and idk how to work around that)
 
 
-Art credits:
+**Art credits:**
 
-I used the following art for the grade names:
+*I used the following art for the grade names:*
 
 Turtle Class
 https://www.pixilart.com/draw/sea-turtle-09de62bb5f9a673
