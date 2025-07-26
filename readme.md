@@ -1,3 +1,5 @@
+[TODO: the "Stages Left" graphic currently overlaps the number in the center.]
+
 As far as I can tell, I've translated everything except the plain text and the credits.
 
 Translating the plain text is far beyond my capabilities, unfortunately.* This means that the text of the tutorials, along with the description of the difference between Crane and Slide remain in Japanese.
