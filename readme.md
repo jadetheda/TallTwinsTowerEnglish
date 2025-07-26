@@ -1,4 +1,4 @@
-[TODO: the "Stages Left" graphic currently overlaps the number in the center.] (Also tbh it say rows
+[TODO: change stages left to rows left, fix visual error on How To Win]
 
 As far as I can tell, I've translated everything except the plain text and the credits.
 
