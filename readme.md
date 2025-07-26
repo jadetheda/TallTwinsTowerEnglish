@@ -33,3 +33,9 @@ lillian from dafont
 
 The ? replacing the japanese word for question:
 Gallaencia
+
+
+Tools used:
+TIM2VIEW
+Paint.NET
+Gimp
