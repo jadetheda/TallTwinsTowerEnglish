@@ -1,4 +1,4 @@
-[TODO: change stages left to rows left, fix visual error on How To Win, change VS Instructions header to be translated]
+[TODO: fix visual error on How To Win, change VS Instructions header to be translated]
 
 As far as I can tell, I've translated everything except the plain text and the credits.
 
