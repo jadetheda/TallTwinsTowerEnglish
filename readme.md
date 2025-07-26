@@ -1,4 +1,4 @@
-[TODO: the "Stages Left" graphic currently overlaps the number in the center.]
+[TODO: the "Stages Left" graphic currently overlaps the number in the center.] (Also tbh it say rows
 
 As far as I can tell, I've translated everything except the plain text and the credits.
 
