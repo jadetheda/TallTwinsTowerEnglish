@@ -1,4 +1,5 @@
 [TODO: fix visual error on How To Win, change VS Instructions header to be translated]
+If anybody has a better icon for hurrican class than a cloud with a lightning bold, which can fit in 18 pixels of vertical space, please let me know in Issues!
 
 As far as I can tell, I've translated everything except the plain text and the credits.
 
