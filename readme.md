@@ -1,5 +1,5 @@
 NOTE:
-If anybody has a better icon for hurrican class than a cloud with a lightning bold, which can fit in 18 pixels of vertical space, please let me know in Issues!
+If anybody has a better icon for hurricane class than a cloud with a lightning bolt, which can fit in 18 pixels of vertical space, please let me know in Issues!
 
 As far as I can tell, I've translated everything except the plain text and the credits.
 
