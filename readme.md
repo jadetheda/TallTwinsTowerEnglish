@@ -33,13 +33,13 @@ Alrighty, that's all from me! I hope you enjoy my first ever hack!
 
 *Paint.NET plugins:*
 
-AlphaSpace by MaR-V-iN
+- AlphaSpace by MaR-V-iN
 
-Palette From Image by jxp
+- Palette From Image by jxp
 
-Selective Palette by Curtis Black
+- Selective Palette by Curtis Black
 
-Outline Object by pyrochild
+- Outline Object by pyrochild
 
 ----
 
