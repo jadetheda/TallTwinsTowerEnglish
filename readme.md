@@ -45,10 +45,10 @@ Alrighty, that's all from me! I hope you enjoy my first ever hack!
 
 *Graphics used:*
 
-Sea Turtle https://www.pixilart.com/draw/sea-turtle-09de62bb5f9a673
+- Sea Turtle https://www.pixilart.com/draw/sea-turtle-09de62bb5f9a673
 
-Rabbit https://media.tenor.com/VsI4oUh4-wQAAAAe/pixel-rabbit-rabbit.png
+- Rabbit https://media.tenor.com/VsI4oUh4-wQAAAAe/pixel-rabbit-rabbit.png
 
-Electric https://stock.adobe.com/images/electricity-icon-flash-lightning-high-voltage-logo-charging-icon-pixel-art-style-design-8-bit-sprites-isolated-vector-illustration/445079177
+- Electric https://stock.adobe.com/images/electricity-icon-flash-lightning-high-voltage-logo-charging-icon-pixel-art-style-design-8-bit-sprites-isolated-vector-illustration/445079177
 
-Storm (hurricane) I forgor.
+- Storm (hurricane) I forgor.
