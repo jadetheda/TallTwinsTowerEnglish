@@ -5,11 +5,11 @@ If anybody has a better icon for hurricane class than a cloud with a lightning b
 
 **All text is now translated, except for the credits, the plaintext tutorials, and the plaintext Crane vs Slide screen!**
 
-Translating the plain text is far beyond my capabilities, unfortunately. It uses the Japan BIOS font for these (a font I cannot change), and idek where the text is stored lol. 
+Translating the plain text is far beyond my capabilities, unfortunately. It uses the Japan BIOS font for these (a font I cannot change), and idek where the text is stored. 
 
 Please, please, please -- even if you can just help with some of that, I'd love to hear from you! Better yet, if you can contribute, I'd love you and merge it immediately! 
 
-Feel free to message me on here in Issues, even if you just have comments lol -- I worked rly hard on this, and would love to hear back from the void
+Feel free to message me on here in Issues, even if you just have comments  -- I worked rly hard on this, and would love to hear back from the void
 
 Alrighty, that's all from me! I hope you enjoy my first ever hack!
 
