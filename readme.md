@@ -3,22 +3,22 @@ If anybody has a better icon for hurricane class than a cloud with a lightning b
 
 --------
 
-**All text is now translated, except for the credits, the plaintext tutorials, and the plaintext Crane vs Slide screen!**
+**All text is now translated!**
 
-Translating the plain text is far beyond my capabilities, unfortunately. It uses the Japan BIOS font for these (a font I cannot change), and idek where the text is stored. 
+This time. I mean it! I painstakingly localized every string this game uses, and wrapped it up in a nice custom font*, all for your enjoyment!
 
-Please, please, please -- even if you can just help with some of that, I'd love to hear from you! Better yet, if you can contribute, I'd love you and merge it immediately! 
+I'm honestly really proud of this, I really didn't think it was possible for a while, but through the power of retexturing Japanese symbols and trudgery, this game is now completely English.
 
-Feel free to message me on here in Issues, even if you just have comments  -- I worked rly hard on this, and would love to hear back from the void
+We also now package recalculated EDC/EEC sectors, so in theory this should be compatible with real hardware.
 
-Alrighty, that's all from me! I hope you enjoy my first ever hack!
+As always, if you find any bugs, please let me know in issues!
 
 *Anna* 💖
 
 [Romhacking.net entry](https://www.romhacking.net/translations/7419/)
 ------------
 
-**Made Possible by TIM2VIEW by Lab313**
+**Made Possible by TIM2VIEW by Lab313 & https://github.com/alex-free/edcre**
 
 *Fonts:* 
 - Daydream by DoubleGum
@@ -28,6 +28,8 @@ Alrighty, that's all from me! I hope you enjoy my first ever hack!
 - Larceny by jeti
 
 - Gallaecia Forte by David Calviño
+
+- Custom, widened version of [Pixelosopher by 🌻Helianthus Games🌻](https://helianthus-games.itch.io/pixelosopher)
 
 ----
 
