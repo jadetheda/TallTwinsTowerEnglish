@@ -11,7 +11,7 @@ I'm honestly really proud of this, I really didn't think it was possible for a w
 
 We also now package recalculated EDC/EEC sectors, so in theory this should be compatible with real hardware.
 
-As always, if you find any bugs, please let me know in issues!
+As always, if you find any bugs, or have any suggestions, please let me know in issues!
 
 *Anna* 💖
 
